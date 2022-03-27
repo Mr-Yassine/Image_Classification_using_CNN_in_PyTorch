@@ -9,9 +9,9 @@
 
 * Creating a convolutional neural network (CNN) using PyTorch
 
-- Training a CNN from scratch and monitoring performance
+* Training a CNN from scratch and monitoring performance
 
-- Underfitting, overfitting and how to overcome them
+* Underfitting, overfitting and how to overcome them
 
 
 
